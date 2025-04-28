@@ -1,111 +1,111 @@
-aging_related,theoretical_conceptual,review_type,country,draws_from_education_aghe,draws_from_bss,draws_from_biosci,draws_from_hs,draws_from_srpp,draws_from_humanities,empirical,qualitative,uses_interviews,uses_observation,uses_focus_groups,uses_content_review,quantitative,uses_secondary_data,uses_primary_data,other_quant_method,mixed_methods,other_method
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,1,,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0
-1,0,1,,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0
-1,0,0,CHINA,0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,0,,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,1,0,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0
-1,0,0,,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0
-1,0,0,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-1,0,0,,0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0
-0,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,0,0,,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0
-1,0,0,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-1,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,0,0,,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-1,0,0,,0,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,1,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-1,0,0,TAIWAN,0,1,0,1,1,0,1,1,1,1,0,0,0,0,1,0,0,1
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
-1,1,0,,0,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0
-1,0,0,,0,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,NEW ZEALAND,0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,0,,0,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,CHINA,0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,0,,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,CHINA,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,0,CHINA,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,1,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-1,1,0,MEXICO,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0
-1,0,1,,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,1,0,1,1,0,1,0,0,0,0,0,1,1,1,0,0,0
-1,0,0,IRAN,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,0,ISRAEL,0,1,0,0,1,0,1,1,1,0,0,1,0,0,1,0,0,0
-1,0,0,CANADA,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,1
-1,1,0,,0,1,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0
-1,0,0,CHINA,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,CHINA,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
-0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,UNITED STATES,0,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0
-1,0,0,TAIWAN,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,AUSTRALIA,0,1,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0
-1,0,1,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-0,0,0,,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0
-1,0,0,NORWAY,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0
-0,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,1,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,1,1,0,0,1,0,1,0,0,1,0,0,1,0,1,0,0,0
-1,0,0,US,0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0
-0,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,0,0,,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,1,,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-1,0,1,,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
-1,0,0,PORTUGAL,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0
-0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-1,0,1,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-0,0,0,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,0,FRANCE,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-1,0,0,,0,1,0,0,1,0,1,1,0,1,0,0,0,0,1,0,0,0
-0,1,0,,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0
-0,0,1,,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,1,0,,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
-1,0,0,UNITED STATES,0,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0
-0,1,0,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-1,0,0,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-1,0,0,CHINA,0,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,0,,0,1,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0
-1,0,0,,0,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,0,,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,ENGLAND,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0
-1,0,0,CUBA,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,1,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-0,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0
-1,0,0,UNITED STATES,0,1,1,1,0,0,1,0,1,0,0,0,1,1,1,0,0,0
-1,0,0,CHINA,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0
-0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0
-0,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-0,0,1,,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
-0,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,IRAN,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0
-1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0
+aging_related,theoretical_conceptual,review_type,country,draws_from_education_aghe,draws_from_bss,draws_from_biosci,draws_from_hs,draws_from_srpp,draws_from_humanities,empirical,qualitative,uses_interviews,uses_observation,uses_focus_groups,uses_content_review,quantitative,uses_secondary_data,uses_primary_data,other_quant_method,mixed_methods,other_method,Unnamed: 0,sample_size,sample_race_ethnicity,sample_gender_group,sample_sexual_orientation,sample_gender_identity,sample_age,aging_concepts_term
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,65 years and older,successful aging
+1,0,0,,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,older adults,successful aging
+1,0,0,,0,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,"[demographic_composition_pair(category='Asian', percentage=None)]","[demographic_composition_pair(category='male', percentage=44.0), demographic_composition_pair(category='female', percentage=56.0)]",,,0,65 to ≥80,successful aging
+1,0,1,,0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,,,,,0,populations aged ≥ 45 years,successful aging
+1,0,1,,0,0,0,1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,,,,,0,older adults,"successful aging, healthy longevity"
+1,0,0,CHINA,0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,older adults,successful aging
+1,0,0,,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,older adults,"healthy aging, successful aging"
+1,0,0,,0,1,0,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='women', percentage=51.0)]",,,0,older adults,successful aging
+1,0,0,,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,,,,,0,older patients,successful aging
+1,0,0,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,older adults,successful aging
+1,0,0,,0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,56-68,"productive aging, successful aging"
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='women', percentage=None)]",,,0,"36–44 years old (women), 9–10 months old (mice)",reproductive aging
+1,0,0,,0,1,0,0,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,,,,,0,older adults,productive aging
+0,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,"[demographic_composition_pair(category='white', percentage=54.0), demographic_composition_pair(category='African American', percentage=19.0), demographic_composition_pair(category='another background', percentage=27.0)]",,,,0,mean of 36.7 ± 3.9 years old,reproductive aging
+0,0,0,,0,0,1,0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,0,,,,,0,younger females,asymmetric reproductive aging
+1,0,0,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,mammalian oocytes,antiaging
+1,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='hermaphrodites', percentage=None)]",,,0,aged,
+0,0,0,,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,"[demographic_composition_pair(category='female', percentage=None)]",,,0,female reproductive age,reproductive aging
+1,0,0,,0,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='female', percentage=100.0)]",,,0,35 to 55 years,
+1,0,1,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,"[demographic_composition_pair(category='women', percentage=None)]",,,0,aged,
+1,0,0,TAIWAN,0,1,0,1,1,0,1,1,1,1,0,0,0,0,1,0,0,1,0,,,,,0,,healthy aging
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,,"[demographic_composition_pair(category='male', percentage=None), demographic_composition_pair(category='female', percentage=None)]",,,0,young and older athletes,"optimal aging, healthy aging"
+1,1,0,,0,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,,,,,0,,healthy aging
+1,0,0,,0,1,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,48–89,healthy aging
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='male', percentage=100.0)]",,,0,20-70,healthy aging
+1,0,0,NEW ZEALAND,0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,older adults (≥60 years),healthy aging
+1,0,0,,0,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,"[demographic_composition_pair(category='female', percentage=59.1)]",,,0,51.75 ± 19.82 years old,healthy aging
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,,,,,0,exceptionally long-lived individuals,healthy aging
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,"[demographic_composition_pair(category='sex', percentage=None)]",,,0,age,healthy aging
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,elderly population,healthy aging
+1,0,0,CHINA,0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,older people,active aging
+1,0,0,,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,older adults,active aging
+1,0,0,CHINA,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,60 years and above,active aging
+1,0,0,CHINA,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='male', percentage=None)]",,,0,older adults,active aging
+1,0,1,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,older adults,"healthy aging, active aging, sustainable aging"
+1,1,0,MEXICO,0,1,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,,"[demographic_composition_pair(category='older adults', percentage=None)]",,,0,older adults,active aging
+1,0,1,,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,older adults aged 60 and over,active aging
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='female', percentage=100.0)]",,,0,middle-aged,active aging
+1,0,0,,0,1,0,1,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,,,,,0,"75, 80, or 85 years",active aging
+1,0,0,IRAN,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,elderly,active aging
+1,0,0,ISRAEL,0,1,0,0,1,0,1,1,1,0,0,1,0,0,1,0,0,0,0,,,,,0,older people,"active aging, successful aging"
+1,0,0,CANADA,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1,0,0,1,0,"[demographic_composition_pair(category='Michi Saagiig Nishnaabeg', percentage=None)]",,,,0,intergenerational,successful aging
+1,1,0,,0,1,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,,,,,0,65 and older,active aging
+1,0,0,CHINA,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,1,elderly,active aging
+1,0,0,CHINA,0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,elderly,"positive aging, negative aging"
+0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,positive aging
+1,0,0,,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='female', percentage=76.0)]",,,0,40 years onwards,positive aging
+1,0,0,UNITED STATES,0,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,"[demographic_composition_pair(category='Latino', percentage=None)]",,,,0,older adults,"positive aging, successful aging"
+1,0,0,TAIWAN,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='male', percentage=27.3), demographic_composition_pair(category='female', percentage=72.7)]",,,0,Older adults (older than 55 years),active aging
+1,0,0,,0,1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='male', percentage=59.6)]",,,0,older adults (range = 70y–93y),positive aging
+1,0,0,,0,1,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,"older adults, younger adults",healthy aging
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='male', percentage=None)]",,,0,10-month-old mice,"cognitive aging, brain aging, neurological senescence"
+1,0,0,AUSTRALIA,0,1,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,,,,,0,65 and over,sustainable aging
+1,0,1,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,,
+0,0,0,,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,,,,,0,,
+1,0,0,NORWAY,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,across the lifespan,successful aging
+0,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,"maturation, aging"
+0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,optimal aging
+0,1,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,reliability
+0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,artificial aging
+1,0,0,,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='male', percentage=24.44), demographic_composition_pair(category='female', percentage=75.56)]",,,0,over 60 years of age,healthy aging
+0,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,cellular senescence
+1,0,0,,1,1,0,0,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0,,,,,0,older adults,independent aging
+1,0,0,US,0,1,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,full age spectrum,healthy aging
+0,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,healthy aging
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,older adults,healthy aging
+1,0,0,,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,elderly,"age-related macular degeneration, retinal aging, premature senescence"
+0,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,long-term stability
+0,0,0,,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,successful aging
+1,0,1,,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,late life,pathophysiology of aging
+1,0,1,,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,≥60 years,"active aging, independent aging"
+1,0,0,PORTUGAL,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,1,ageing of the population residing in forest areas,
+0,0,0,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,0,elderly,healthy aging
+1,0,1,,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,,aging
+0,0,0,,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,"[demographic_composition_pair(category='gender', percentage=None)]",,,0,,vital aging
+0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,sustainable aging
+0,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,increasing age,aging-related
+1,0,0,FRANCE,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,adults under 70 and elderly over 70,healthy aging
+1,0,0,,0,1,0,0,1,0,1,1,0,1,0,0,0,0,1,0,0,0,0,,,,,0,older adults,"digital inclusion, social connectivity"
+0,1,0,,0,0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,,,,,0,,sustainable aging
+0,0,1,,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='men', percentage=58.0)]",,,0,aged 59 years,
+0,1,0,,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,,,,,0,,
+1,0,0,UNITED STATES,0,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,1,,,,,0,three age cohorts,
+0,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,19 to 39 weeks gestational age,
+0,1,0,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,,
+0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,
+1,0,0,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,,successful aging
+1,0,0,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,,
+1,0,0,CHINA,0,1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,"[demographic_composition_pair(category='male', percentage=None), demographic_composition_pair(category='female', percentage=None)]",,,0,50-52 years,healthy aging
+1,0,0,,0,1,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,,,,,0,older people,independent aging
+1,0,0,,0,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,≤ 54–95 + years,
+1,0,0,,0,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='female', percentage=100.0)]",,,0,oldest old,optimal aging
+1,0,0,ENGLAND,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,"[demographic_composition_pair(category='females', percentage=53.2)]",,,0,older people,healthy aging
+1,0,0,CUBA,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,"[demographic_composition_pair(category='Cuban', percentage=None)]","[demographic_composition_pair(category='women', percentage=None)]",,,0,"older adults, specifically those aged 80 years and over and those under 80 years",
+1,0,0,,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,"[demographic_composition_pair(category='women', percentage=None)]",,,0,"midlife, approaching the end of the reproductive life-cycle, menopausal transition and beyond",healthy aging
+0,0,0,,1,0,0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,Patients aged 58.3 ± 10.1 years,healthy aging
+1,0,1,,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,,0,elderly,
+0,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,aging
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,,,,,0,,successful aging
+1,0,0,UNITED STATES,0,1,1,1,0,0,1,0,1,0,0,0,1,1,1,0,0,0,0,"[demographic_composition_pair(category='non-Hispanic Whites', percentage=82.7), demographic_composition_pair(category='non-Hispanic Blacks', percentage=6.8), demographic_composition_pair(category='Mexican Americans', percentage=3.3)]","[demographic_composition_pair(category='women', percentage=56.3)]",,,0,65 and older,obesity paradox
+1,0,0,CHINA,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,,,,,0,60 and above,"successful aging, healthy aging, active aging"
+0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,aging resistance
+1,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,,,,,0,,
+0,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,aged 71.2 ± 8.1 years,healthy aging
+0,0,0,,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,"old gasoline vehicles, low-mileage gasoline vehicles",aging
+0,0,1,,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,,,,,0,aging,
+0,0,0,,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,
+1,0,0,IRAN,0,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,"[demographic_composition_pair(category='women', percentage=100.0)]",,,0,menopausal transition,successful aging
+1,0,0,,0,0,1,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,,,,,0,,anti-aging
